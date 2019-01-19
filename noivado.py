@@ -1,1 +1,1 @@
-print('noivado de Thamiris e Arkady')
+print('noivado do Arkady e Thamiris')
